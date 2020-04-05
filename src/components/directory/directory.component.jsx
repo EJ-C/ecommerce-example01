@@ -11,7 +11,7 @@ class Directory extends React.Component {
     this.state = {
       sections: [
         {
-          title: 'hats',
+          title: 'accessories',
           imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
           id: 1
         },
@@ -21,18 +21,18 @@ class Directory extends React.Component {
           id: 2
         },
         {
-          title: 'sneakers',
+          title: 'sneaker',
           imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
           id: 3
         },
         {
-          title: 'womens',
+          title: 'women',
           imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
           size: 'large',
           id: 4
         },
         {
-          title: 'mens',
+          title: 'men',
           imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
           size: 'large',
           id: 5
